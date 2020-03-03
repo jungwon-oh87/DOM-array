@@ -60,6 +60,7 @@ function sortByRichest() {
     return b.money - a.money;
   });
 
+  function temp() {}
   updateDOM();
 }
 
